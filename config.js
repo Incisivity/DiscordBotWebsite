@@ -8,40 +8,40 @@ const config = {
   name: "ProBot",
   //BotName
   inviteLink:
-    "https://discord.com/oauth2/authorize?client_id=879602399067660338&permissions=8&scope=bot&redirect_uri=https://docs.markos.ga&response_type=code",
+    "https://discord.gg/YA2g6xZwMr",
   //BotInvite Link
   Features: [
     {
-      name: "Moderation",
+      name: "Giveaways",
       description:
         "Moderation is the process of eliminating or lessening extremes.",
       logo: <MdAddModerator className="h-10 w-10" />,
     },
     {
-      name: "99% Uptime",
+      name: "99.9% Uptime",
       description:
         "Uptime is a measure of system reliability, expressed as the percentage of time a machine, typically a computer.",
       logo: <SiProbot className="h-10 w-10" />,
     },
     {
-      name: "Automation",
+      name: "sex",
       description:
-        "Automation describes a wide range of technologies that reduce  human intervention in processes.",
+        "sex",
       logo: <TbMessage2Code className="h-10 w-10" />,
     },
     {
-      name: "Welcomer",
+      name: "Cocaine",
       description:
-        "Welcomer is the person who greet the new person in an unique and great way",
+        "Nice",
       logo: <CgCrown className="h-10 w-10" />,
     },
     // You can added more features if need add
   ],
   //Bot Features
-  serverCount: 300, //-  - Your
-  memberCount: 700, //--   - Bot
-  executedCommand: 27000, //--  - Stats
-  availableCommand: 400, //---   - Here
+  serverCount: 1, //-  - Your
+  memberCount: 2, //--   - Bot
+  executedCommand: 0, //--  - Stats
+  availableCommand: 0, //---   - Here
   //Do not change if you don't know about them
   faceBookLogo: (
     <BsFacebook className="h-10 w-10 text-[#4267B2] hover:scale-125 easeIn cursor-pointer" />
@@ -54,12 +54,12 @@ const config = {
   ),
   //----------------------------------------------------------------
   // Your social handle links
-  githubLink: "https://github.com/mohitmimani",
+  githubLink: "https://github.com/",
   twitterLink: "https://twitter.com",
   mediumLink: "https://medium.com/",
   facebookLink: "https://facebook.com",
-  discordLink: "https://discord.com",
-  youtubeLink: "https://www.youtube.com/channel/UCfhRHeex9lU0ZAVJot6Z2ZQ",
+  discordLink: "https://discord.gg/YA2g6xZwMr",
+  youtubeLink: "https://www.youtube.com/channel/UC8KRsSddnftGRQTsLkdBdXw",
 };
 
 export default config;
